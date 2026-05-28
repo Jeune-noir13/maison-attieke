@@ -1,0 +1,4 @@
+[build]
+  base = "maison-attieke"
+  command = "npm run build"
+  publish = "maison-attieke/.next"
