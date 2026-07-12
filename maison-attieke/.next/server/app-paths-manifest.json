@@ -1,9 +1,0 @@
-{
-  "/_not-found/page": "app/_not-found/page.js",
-  "/portail-admin/page": "app/portail-admin/page.js",
-  "/api/avis/route": "app/api/avis/route.js",
-  "/(site)/about/page": "app/(site)/about/page.js",
-  "/(site)/page": "app/(site)/page.js",
-  "/(site)/menu/[id]/page": "app/(site)/menu/[id]/page.js",
-  "/(site)/menu/page": "app/(site)/menu/page.js"
-}
